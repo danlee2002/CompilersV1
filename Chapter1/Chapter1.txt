@@ -1,0 +1,4 @@
+# Chapter 1
+## Introduction 
+- Program languages provide a bridge between machines and people
+- They are the mediums of what allows to fully harness the power of modern technology
