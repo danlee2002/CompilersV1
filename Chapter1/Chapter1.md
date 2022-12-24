@@ -142,4 +142,3 @@ x = i + 1;
 - Aliasing is the mechanism in which two parameters may refer to the same location 
 - Suppose we have the parameters for the following function: q(x,x)
 - In this case, we can alias the values to each other to optimize our compiler
-- 
